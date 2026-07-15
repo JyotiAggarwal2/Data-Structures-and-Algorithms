@@ -36,4 +36,12 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
