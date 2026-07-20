@@ -5,6 +5,7 @@ A collection of DSA questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -22,6 +23,7 @@ A collection of DSA questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
@@ -59,6 +61,7 @@ A collection of DSA questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
