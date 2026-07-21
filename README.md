@@ -87,6 +87,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
