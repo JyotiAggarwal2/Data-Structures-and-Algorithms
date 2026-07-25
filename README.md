@@ -19,6 +19,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -46,6 +47,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
