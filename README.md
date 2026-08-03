@@ -6,6 +6,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -49,6 +50,7 @@ A collection of DSA questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -115,4 +117,20 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
