@@ -8,6 +8,7 @@ A collection of DSA questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -89,6 +90,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -175,4 +177,8 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
