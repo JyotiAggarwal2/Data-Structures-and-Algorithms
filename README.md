@@ -24,6 +24,7 @@ A collection of DSA questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -66,6 +67,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -130,6 +132,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -167,6 +170,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
