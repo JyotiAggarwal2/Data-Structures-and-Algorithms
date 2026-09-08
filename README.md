@@ -86,6 +86,7 @@ A collection of DSA questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
