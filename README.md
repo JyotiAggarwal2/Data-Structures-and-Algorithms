@@ -246,4 +246,16 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
