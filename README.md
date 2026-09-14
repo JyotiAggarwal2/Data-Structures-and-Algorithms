@@ -75,6 +75,7 @@ A collection of DSA questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
@@ -265,4 +266,8 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
