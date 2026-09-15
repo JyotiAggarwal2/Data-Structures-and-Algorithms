@@ -32,6 +32,7 @@ A collection of DSA questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,6 +103,7 @@ A collection of DSA questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -156,6 +158,7 @@ A collection of DSA questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +190,7 @@ A collection of DSA questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
