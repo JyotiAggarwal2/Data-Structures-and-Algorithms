@@ -8,6 +8,7 @@ A collection of DSA questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -118,6 +119,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -131,6 +133,7 @@ A collection of DSA questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -188,6 +191,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -230,6 +234,7 @@ A collection of DSA questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
