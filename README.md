@@ -25,6 +25,7 @@ A collection of DSA questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -281,6 +282,7 @@ A collection of DSA questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Union-Find
 |  |
 | ------- |
