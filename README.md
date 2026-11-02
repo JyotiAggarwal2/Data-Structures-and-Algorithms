@@ -5,6 +5,7 @@ A collection of DSA questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1260-shift-2d-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
@@ -52,6 +53,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -94,6 +96,7 @@ A collection of DSA questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
