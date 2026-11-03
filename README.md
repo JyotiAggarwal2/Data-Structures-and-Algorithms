@@ -29,6 +29,7 @@ A collection of DSA questions to ace the coding interview!
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -112,6 +113,7 @@ A collection of DSA questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3871-count-commas-in-range-ii) |
