@@ -13,6 +13,7 @@ A collection of DSA questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1872-stone-game-viii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -89,6 +90,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1882-process-tasks-using-servers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
