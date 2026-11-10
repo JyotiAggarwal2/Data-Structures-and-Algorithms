@@ -30,6 +30,7 @@ A collection of DSA questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -243,6 +244,7 @@ A collection of DSA questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
 |  |
 | ------- |
