@@ -16,6 +16,7 @@ A collection of DSA questions to ace the coding interview!
 | [1882-process-tasks-using-servers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -49,6 +50,7 @@ A collection of DSA questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -64,6 +66,7 @@ A collection of DSA questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
