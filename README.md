@@ -22,6 +22,7 @@ A collection of DSA questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -70,6 +71,7 @@ A collection of DSA questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -254,6 +256,7 @@ A collection of DSA questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
