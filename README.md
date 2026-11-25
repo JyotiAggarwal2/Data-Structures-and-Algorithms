@@ -43,6 +43,7 @@ A collection of DSA questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -179,12 +180,14 @@ A collection of DSA questions to ace the coding interview!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -381,4 +384,16 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
