@@ -44,6 +44,7 @@ A collection of DSA questions to ace the coding interview!
 | [3876-construct-uniform-parity-array-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of DSA questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of DSA questions to ace the coding interview!
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
