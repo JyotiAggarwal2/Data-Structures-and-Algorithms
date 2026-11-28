@@ -45,6 +45,7 @@ A collection of DSA questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of DSA questions to ace the coding interview!
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of DSA questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of DSA questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1882-process-tasks-using-servers](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/JyotiAggarwal2/Data-Structures-and-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
